@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Demoblaze","Dar de alta a un usuario","SUCCESS","23:16:39","0.0","16.85"
+"Demoblaze","Log in de un usuario","SUCCESS","23:16:56","0.0","11.22"
+"Demoblaze","Log out de un usuario","SUCCESS","23:17:07","0.0","17.73"
+"Demoblaze","Agregar laptop al carrito","SUCCESS","23:17:25","0.0","20.85"
+"Demoblaze","Validar productos agregados al carrito","SUCCESS","23:18:56","0.0","32.13"

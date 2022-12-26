@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Title of your feature" skipped="0" tests="1" time="134.61" timestamp="2022-12-22 04:49:36"><testcase name="Log out de un usuario"><error message="no such window: target window already closed&#10;from unknown error: web view not found&#10;  (Session info: chrome=108.0.5359.125)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49813}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 543c61e0d8f4e5a5a004172cb93b6d49&#10;*** Element info: {Using=xpath, value=//a[@class='nav-link' and contains(text(), 'Log out')]}&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchWindowException">no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49813}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 543c61e0d8f4e5a5a004172cb93b6d49
+*** Element info: {Using=xpath, value=//a[@class='nav-link' and contains(text(), 'Log out')]}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: unknown</error><system-err>no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=108.0.5359.125)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:49813}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 543c61e0d8f4e5a5a004172cb93b6d49
+*** Element info: {Using=xpath, value=//a[@class='nav-link' and contains(text(), 'Log out')]}
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: unknown&#13;
+util.PageObjectUtil.verificarCarga(PageObjectUtil.java:151)&#13;
+page.DemoblazePage.clickMenuLogOut(DemoblazePage.java:98)&#13;
+step.DemoblazeSignUpStep.logOutMenu(DemoblazeSignUpStep.java:63)&#13;
+definition.DemoblazeSignUpDefinition.hago_click_en_la_opcion_Log_out_del_menu(DemoblazeSignUpDefinition.java:77)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>

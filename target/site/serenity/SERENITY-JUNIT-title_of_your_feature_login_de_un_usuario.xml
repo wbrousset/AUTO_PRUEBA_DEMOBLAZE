@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Title of your feature" skipped="0" tests="1" time="135.27" timestamp="2022-12-22 04:23:56"><testcase name="Login de un usuario"><error message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@class='nav-link' and contains(text(), 'Welcomea prueba202f')]&quot;}&#10;  (Session info: chrome=108.0.5359.125)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65288}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: 9cbb2001ed6a975e6c1b7b4d82ac1da8&#10;*** Element info: {Using=xpath, value=//a[@class='nav-link' and contains(text(), 'Welcomea prueba202f')]}&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.NoSuchElementException">no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='nav-link' and contains(text(), 'Welcomea prueba202f')]"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65288}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cbb2001ed6a975e6c1b7b4d82ac1da8
+*** Element info: {Using=xpath, value=//a[@class='nav-link' and contains(text(), 'Welcomea prueba202f')]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: unknown</error><system-err>no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class='nav-link' and contains(text(), 'Welcomea prueba202f')]"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\ASUS\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65288}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cbb2001ed6a975e6c1b7b4d82ac1da8
+*** Element info: {Using=xpath, value=//a[@class='nav-link' and contains(text(), 'Welcomea prueba202f')]}
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ASUS-TUF-GAMING', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'
+Driver info: driver.version: unknown&#13;
+util.PageObjectUtil.verificarCarga(PageObjectUtil.java:151)&#13;
+page.DemoblazePage.usuarioLogueado(DemoblazePage.java:94)&#13;
+step.DemoblazeSignUpStep.welcomeUser(DemoblazeSignUpStep.java:56)&#13;
+definition.DemoblazeSignUpDefinition.visualizare_en_el_menu_el_mensaje_de_welcome(DemoblazeSignUpDefinition.java:61)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>

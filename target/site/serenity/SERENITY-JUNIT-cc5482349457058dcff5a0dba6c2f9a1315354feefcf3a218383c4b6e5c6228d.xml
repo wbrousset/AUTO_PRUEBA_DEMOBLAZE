@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Title of your feature" skipped="0" tests="1" time="1.16" timestamp="2022-12-21 11:08:47"><testcase name="Dar de alta a un usuario"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.firefox.FirefoxDriver (The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases). See below for more details.&#13;
+page.DemoblazePage.inicializar(DemoblazePage.java:18)&#13;
+step.DemoblazeSignUpStep.ingresarWeb(DemoblazeSignUpStep.java:12)&#13;
+definition.DemoblazeSignUpDefinition.ingreso_a_la_web_de_demoblaze(DemoblazeSignUpDefinition.java:16)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>
